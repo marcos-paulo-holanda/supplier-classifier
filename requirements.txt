@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+requests
+sentence-transformers
+rapidfuzz
+python-dotenv
+
